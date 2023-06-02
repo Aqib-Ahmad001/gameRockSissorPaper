@@ -1,0 +1,45 @@
+/* .choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    
+}
+#gameDiv{
+    font-family:  cursive;
+    border:  3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+
+} */
+
+
+* {
+    text-align: center;
+  }
+  body {
+    background-color: beige;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    margin-top: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(162, 185, 230);
+    color: white;
+  }
+  button {
+    height: 3rem;
+    font-size: 20px;
+    margin: 4%;
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: rgb(38, 99, 220);
+    color: white;
+  }
